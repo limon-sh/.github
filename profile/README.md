@@ -1,3 +1,3 @@
 ## Limon
 
-> Limon - linux monitoring service.
+> Limon - linux monitoring system.
